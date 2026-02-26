@@ -1,20 +1,76 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 PathFinder AI – Career Recommender for ECE Students
 
-# Run and deploy your AI Studio app
+PathFinder AI is an AI-powered career recommendation web app designed for Electronics and Communication Engineering (ECE) students.
 
-This contains everything you need to run your app locally.
+The app suggests:
 
-View your app in AI Studio: https://ai.studio/apps/baf00c0a-e540-46aa-b899-0951797334ea
+- Suitable Career Paths
+- Internship Roles
+- Skills to Learn Next
 
-## Run Locally
+based on:
 
-**Prerequisites:**  Node.js
+- Education
+- Skills
+- Interests
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🧠 Built Using
+
+- Google AI Studio (Gemini)
+- Vibe Coding Approach
+- React + TypeScript
+
+---
+
+## ⚙ How It Works
+
+User enters:
+
+- Education
+- Skills
+- Area of Interest
+
+Gemini AI analyzes the profile and recommends:
+
+✔ Career paths  
+✔ Internship roles  
+✔ Missing skills to learn  
+
+---
+
+## 🎯 Example Output
+
+Input:
+
+Skills: Python, MATLAB  
+Interest: AI  
+
+Output:
+
+- Career Path: AI Engineer  
+- Internships: ML Intern, CV Intern  
+- Skills to Learn: TensorFlow, Deep Learning  
+
+---
+
+## 🚀 Purpose
+
+This project helps ECE students:
+
+- Discover career paths
+- Identify skill gaps
+- Plan learning roadmap
+
+---
+
+## 📌 Developed As
+
+AI-assisted Vibe Coding Project using Google AI Studio
+
+---
+
+## 👨‍💻 Author
+
+Syed Sabeel
