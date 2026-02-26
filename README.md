@@ -1,6 +1,7 @@
 # 🚀 PathFinder AI – Career Recommender for ECE Students
+
 ## 📸 App Preview
-![Preview](Assets/app-preview.png)
+![Preview]([Assets/app-preview.png](https://github.com/syedsabeel-git/PathFinder-ECE/blob/a4b92d01ac7013f970014cb2d6dd082a6407d468/assets-app-preview.png.png))
 
 PathFinder AI is an AI-powered career recommendation web app designed for Electronics and Communication Engineering (ECE) students.
 
